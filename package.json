@@ -1,7 +1,7 @@
 {
-  "name": "example-basic",
-  "version": "0.0.0",
-  "description": "",
+  "name": "sqr",
+  "version": "0.0.1",
+  "description": "A simple, free and open-source 2D code generator",
   "type": "module",
   "scripts": {
     "dev": "vite",
